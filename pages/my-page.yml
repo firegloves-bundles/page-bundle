@@ -1,5 +1,6 @@
+descriptorVersion: v5
 name: my-page
-parentName: homepage
+parentCode: my_parent_page_1a2b3c4d
 titles:
   en: My Page
   it: Mia pagina
