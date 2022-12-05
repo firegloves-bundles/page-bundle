@@ -9,3 +9,7 @@ ownerGroup: free
 joinGroups: []
 charset: utf-8
 status: published
+widgets:
+  - code: Brand-Logo
+    config: null
+    pos: 0
