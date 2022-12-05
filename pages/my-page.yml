@@ -1,0 +1,9 @@
+code: my-page
+titles:
+  en: My Page
+  it: Mia pagina
+pageModel: 1-2-column
+ownerGroup: free
+joinGroups: []
+charset: utf-8
+status: published

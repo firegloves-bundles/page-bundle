@@ -1,0 +1,6 @@
+code: page-bundle
+description: This is the pagebundle bundle
+
+components:
+  pages:
+    - pages/my-page.yml
