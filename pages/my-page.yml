@@ -1,5 +1,6 @@
 descriptorVersion: v5
 name: my-page
+parentName:
 titles:
   en: My Page
   it: Mia pagina
