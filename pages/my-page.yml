@@ -1,6 +1,6 @@
 descriptorVersion: v5
 name: mypage
-parentName: homepage
+parentName: global:homepage
 titles:
   en: My Page
   it: Mia pagina
